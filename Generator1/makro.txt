@@ -1,0 +1,4335 @@
+1 | 225 | 130 | 2668 | Left Click Down
+2 | 225 | 130 | 62 | Left Click Release
+3 | 225 | 130 | 94 | Left Click Down
+4 | 225 | 130 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 156 | 2668 | Left Click Down
+2 | 225 | 156 | 62 | Left Click Release
+3 | 225 | 156 | 94 | Left Click Down
+4 | 225 | 156 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 174 | 2668 | Left Click Down
+2 | 225 | 174 | 62 | Left Click Release
+3 | 225 | 174 | 94 | Left Click Down
+4 | 225 | 174 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 195 | 2668 | Left Click Down
+2 | 225 | 195 | 62 | Left Click Release
+3 | 225 | 195 | 94 | Left Click Down
+4 | 225 | 195 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 219 | 2668 | Left Click Down
+2 | 225 | 219 | 62 | Left Click Release
+3 | 225 | 219 | 94 | Left Click Down
+4 | 225 | 219 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 241 | 2668 | Left Click Down
+2 | 225 | 241 | 62 | Left Click Release
+3 | 225 | 241 | 94 | Left Click Down
+4 | 225 | 241 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 263 | 2668 | Left Click Down
+2 | 225 | 263 | 62 | Left Click Release
+3 | 225 | 263 | 94 | Left Click Down
+4 | 225 | 263 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 285 | 2668 | Left Click Down
+2 | 225 | 285 | 62 | Left Click Release
+3 | 225 | 285 | 94 | Left Click Down
+4 | 225 | 285 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 305 | 2668 | Left Click Down
+2 | 225 | 305 | 62 | Left Click Release
+3 | 225 | 305 | 94 | Left Click Down
+4 | 225 | 305 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 330 | 2668 | Left Click Down
+2 | 225 | 330 | 62 | Left Click Release
+3 | 225 | 330 | 94 | Left Click Down
+4 | 225 | 330 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 353 | 2668 | Left Click Down
+2 | 225 | 353| 62 | Left Click Release
+3 | 225 | 353 | 94 | Left Click Down
+4 | 225 | 353 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 371 | 2668 | Left Click Down
+2 | 225 | 371 | 62 | Left Click Release
+3 | 225 | 371 | 94 | Left Click Down
+4 | 225 | 371 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 389 | 2668 | Left Click Down
+2 | 225 | 389 | 62 | Left Click Release
+3 | 225 | 389 | 94 | Left Click Down
+4 | 225 | 389 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 416 | 2668 | Left Click Down
+2 | 225 | 416 | 62 | Left Click Release
+3 | 225 | 416 | 94 | Left Click Down
+4 | 225 | 416 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 434 | 2668 | Left Click Down
+2 | 225 | 434 | 62 | Left Click Release
+3 | 225 | 434 | 94 | Left Click Down
+4 | 225 | 434 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 457 | 2668 | Left Click Down
+2 | 225 | 457 | 62 | Left Click Release
+3 | 225 | 457 | 94 | Left Click Down
+4 | 225 | 457 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 482 | 2668 | Left Click Down
+2 | 225 | 482 | 62 | Left Click Release
+3 | 225 | 482 | 94 | Left Click Down
+4 | 225 | 482 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 503 | 2668 | Left Click Down
+2 | 225 | 503 | 62 | Left Click Release
+3 | 225 | 503 | 94 | Left Click Down
+4 | 225 | 503 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 524 | 2668 | Left Click Down
+2 | 225 | 524 | 62 | Left Click Release
+3 | 225 | 524 | 94 | Left Click Down
+4 | 225 | 524 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 547 | 2668 | Left Click Down
+2 | 225 | 547 | 62 | Left Click Release
+3 | 225 | 547 | 94 | Left Click Down
+4 | 225 | 547 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 572 | 2668 | Left Click Down
+2 | 225 | 572| 62 | Left Click Release
+3 | 225 | 572 | 94 | Left Click Down
+4 | 225 | 572 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 592 | 2668 | Left Click Down
+2 | 225 | 592 | 62 | Left Click Release
+3 | 225 | 592 | 94 | Left Click Down
+4 | 225 | 592 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 614 | 2668 | Left Click Down
+2 | 225 | 614 | 62 | Left Click Release
+3 | 225 | 614 | 94 | Left Click Down
+4 | 225 | 614 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 632 | 2668 | Left Click Down
+2 | 225 | 632 | 62 | Left Click Release
+3 | 225 | 632 | 94 | Left Click Down
+4 | 225 | 632 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 657 | 2668 | Left Click Down
+2 | 225 | 657 | 62 | Left Click Release
+3 | 225 | 657 | 94 | Left Click Down
+4 | 225 | 657 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 682 | 2668 | Left Click Down
+2 | 225 | 682 | 62 | Left Click Release
+3 | 225 | 682 | 94 | Left Click Down
+4 | 225 | 682 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 704 | 2668 | Left Click Down
+2 | 225 | 704 | 62 | Left Click Release
+3 | 225 | 704 | 94 | Left Click Down
+4 | 225 | 704 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 722 | 2668 | Left Click Down
+2 | 225 | 722 | 62 | Left Click Release
+3 | 225 | 722 | 94 | Left Click Down
+4 | 225 | 722 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 747 | 2668 | Left Click Down
+2 | 225 | 747 | 62 | Left Click Release
+3 | 225 | 747 | 94 | Left Click Down
+4 | 225 | 747 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 768 | 2668 | Left Click Down
+2 | 225 | 768 | 62 | Left Click Release
+3 | 225 | 768 | 94 | Left Click Down
+4 | 225 | 768 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+
+1 | 16 | 37 | 2028 | Left Click Down
+2 | 16 | 37 | 78 | Left Click Release
+3 | 207 | 154 | 1568 | Left Click Down
+4 | 207 | 154 | 62 | Left Click Release
+5 | 207 | 154 | 94 | Left Click Down
+6 | 207 | 154 | 94 | Left Click Release
+
+1 | 225 | 130 | 2668 | Left Click Down
+2 | 225 | 130 | 62 | Left Click Release
+3 | 225 | 130 | 94 | Left Click Down
+4 | 225 | 130 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 156 | 2668 | Left Click Down
+2 | 225 | 156 | 62 | Left Click Release
+3 | 225 | 156 | 94 | Left Click Down
+4 | 225 | 156 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 174 | 2668 | Left Click Down
+2 | 225 | 174 | 62 | Left Click Release
+3 | 225 | 174 | 94 | Left Click Down
+4 | 225 | 174 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 195 | 2668 | Left Click Down
+2 | 225 | 195 | 62 | Left Click Release
+3 | 225 | 195 | 94 | Left Click Down
+4 | 225 | 195 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 219 | 2668 | Left Click Down
+2 | 225 | 219 | 62 | Left Click Release
+3 | 225 | 219 | 94 | Left Click Down
+4 | 225 | 219 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 241 | 2668 | Left Click Down
+2 | 225 | 241 | 62 | Left Click Release
+3 | 225 | 241 | 94 | Left Click Down
+4 | 225 | 241 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 263 | 2668 | Left Click Down
+2 | 225 | 263 | 62 | Left Click Release
+3 | 225 | 263 | 94 | Left Click Down
+4 | 225 | 263 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 285 | 2668 | Left Click Down
+2 | 225 | 285 | 62 | Left Click Release
+3 | 225 | 285 | 94 | Left Click Down
+4 | 225 | 285 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 305 | 2668 | Left Click Down
+2 | 225 | 305 | 62 | Left Click Release
+3 | 225 | 305 | 94 | Left Click Down
+4 | 225 | 305 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 330 | 2668 | Left Click Down
+2 | 225 | 330 | 62 | Left Click Release
+3 | 225 | 330 | 94 | Left Click Down
+4 | 225 | 330 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 353 | 2668 | Left Click Down
+2 | 225 | 353| 62 | Left Click Release
+3 | 225 | 353 | 94 | Left Click Down
+4 | 225 | 353 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 371 | 2668 | Left Click Down
+2 | 225 | 371 | 62 | Left Click Release
+3 | 225 | 371 | 94 | Left Click Down
+4 | 225 | 371 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 389 | 2668 | Left Click Down
+2 | 225 | 389 | 62 | Left Click Release
+3 | 225 | 389 | 94 | Left Click Down
+4 | 225 | 389 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 416 | 2668 | Left Click Down
+2 | 225 | 416 | 62 | Left Click Release
+3 | 225 | 416 | 94 | Left Click Down
+4 | 225 | 416 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 434 | 2668 | Left Click Down
+2 | 225 | 434 | 62 | Left Click Release
+3 | 225 | 434 | 94 | Left Click Down
+4 | 225 | 434 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 457 | 2668 | Left Click Down
+2 | 225 | 457 | 62 | Left Click Release
+3 | 225 | 457 | 94 | Left Click Down
+4 | 225 | 457 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 482 | 2668 | Left Click Down
+2 | 225 | 482 | 62 | Left Click Release
+3 | 225 | 482 | 94 | Left Click Down
+4 | 225 | 482 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 503 | 2668 | Left Click Down
+2 | 225 | 503 | 62 | Left Click Release
+3 | 225 | 503 | 94 | Left Click Down
+4 | 225 | 503 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 524 | 2668 | Left Click Down
+2 | 225 | 524 | 62 | Left Click Release
+3 | 225 | 524 | 94 | Left Click Down
+4 | 225 | 524 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 547 | 2668 | Left Click Down
+2 | 225 | 547 | 62 | Left Click Release
+3 | 225 | 547 | 94 | Left Click Down
+4 | 225 | 547 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 572 | 2668 | Left Click Down
+2 | 225 | 572| 62 | Left Click Release
+3 | 225 | 572 | 94 | Left Click Down
+4 | 225 | 572 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 592 | 2668 | Left Click Down
+2 | 225 | 592 | 62 | Left Click Release
+3 | 225 | 592 | 94 | Left Click Down
+4 | 225 | 592 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 614 | 2668 | Left Click Down
+2 | 225 | 614 | 62 | Left Click Release
+3 | 225 | 614 | 94 | Left Click Down
+4 | 225 | 614 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 632 | 2668 | Left Click Down
+2 | 225 | 632 | 62 | Left Click Release
+3 | 225 | 632 | 94 | Left Click Down
+4 | 225 | 632 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 657 | 2668 | Left Click Down
+2 | 225 | 657 | 62 | Left Click Release
+3 | 225 | 657 | 94 | Left Click Down
+4 | 225 | 657 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 682 | 2668 | Left Click Down
+2 | 225 | 682 | 62 | Left Click Release
+3 | 225 | 682 | 94 | Left Click Down
+4 | 225 | 682 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 704 | 2668 | Left Click Down
+2 | 225 | 704 | 62 | Left Click Release
+3 | 225 | 704 | 94 | Left Click Down
+4 | 225 | 704 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 722 | 2668 | Left Click Down
+2 | 225 | 722 | 62 | Left Click Release
+3 | 225 | 722 | 94 | Left Click Down
+4 | 225 | 722 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 747 | 2668 | Left Click Down
+2 | 225 | 747 | 62 | Left Click Release
+3 | 225 | 747 | 94 | Left Click Down
+4 | 225 | 747 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 768 | 2668 | Left Click Down
+2 | 225 | 768 | 62 | Left Click Release
+3 | 225 | 768 | 94 | Left Click Down
+4 | 225 | 768 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+
+1 | 17 | 34 | 1654 | Left Click Down
+2 | 17 | 34 | 109 | Left Click Release
+3 | 227 | 171 | 1392 | Left Click Down
+4 | 227 | 171 | 16 | Left Click Release
+5 | 227 | 171 | 109 | Left Click Down
+6 | 227 | 171 | 94 | Left Click Release
+
+1 | 225 | 130 | 2668 | Left Click Down
+2 | 225 | 130 | 62 | Left Click Release
+3 | 225 | 130 | 94 | Left Click Down
+4 | 225 | 130 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 156 | 2668 | Left Click Down
+2 | 225 | 156 | 62 | Left Click Release
+3 | 225 | 156 | 94 | Left Click Down
+4 | 225 | 156 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 174 | 2668 | Left Click Down
+2 | 225 | 174 | 62 | Left Click Release
+3 | 225 | 174 | 94 | Left Click Down
+4 | 225 | 174 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 195 | 2668 | Left Click Down
+2 | 225 | 195 | 62 | Left Click Release
+3 | 225 | 195 | 94 | Left Click Down
+4 | 225 | 195 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 219 | 2668 | Left Click Down
+2 | 225 | 219 | 62 | Left Click Release
+3 | 225 | 219 | 94 | Left Click Down
+4 | 225 | 219 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 241 | 2668 | Left Click Down
+2 | 225 | 241 | 62 | Left Click Release
+3 | 225 | 241 | 94 | Left Click Down
+4 | 225 | 241 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 263 | 2668 | Left Click Down
+2 | 225 | 263 | 62 | Left Click Release
+3 | 225 | 263 | 94 | Left Click Down
+4 | 225 | 263 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 285 | 2668 | Left Click Down
+2 | 225 | 285 | 62 | Left Click Release
+3 | 225 | 285 | 94 | Left Click Down
+4 | 225 | 285 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 305 | 2668 | Left Click Down
+2 | 225 | 305 | 62 | Left Click Release
+3 | 225 | 305 | 94 | Left Click Down
+4 | 225 | 305 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 330 | 2668 | Left Click Down
+2 | 225 | 330 | 62 | Left Click Release
+3 | 225 | 330 | 94 | Left Click Down
+4 | 225 | 330 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 353 | 2668 | Left Click Down
+2 | 225 | 353| 62 | Left Click Release
+3 | 225 | 353 | 94 | Left Click Down
+4 | 225 | 353 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 371 | 2668 | Left Click Down
+2 | 225 | 371 | 62 | Left Click Release
+3 | 225 | 371 | 94 | Left Click Down
+4 | 225 | 371 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 389 | 2668 | Left Click Down
+2 | 225 | 389 | 62 | Left Click Release
+3 | 225 | 389 | 94 | Left Click Down
+4 | 225 | 389 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 416 | 2668 | Left Click Down
+2 | 225 | 416 | 62 | Left Click Release
+3 | 225 | 416 | 94 | Left Click Down
+4 | 225 | 416 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 434 | 2668 | Left Click Down
+2 | 225 | 434 | 62 | Left Click Release
+3 | 225 | 434 | 94 | Left Click Down
+4 | 225 | 434 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 457 | 2668 | Left Click Down
+2 | 225 | 457 | 62 | Left Click Release
+3 | 225 | 457 | 94 | Left Click Down
+4 | 225 | 457 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 482 | 2668 | Left Click Down
+2 | 225 | 482 | 62 | Left Click Release
+3 | 225 | 482 | 94 | Left Click Down
+4 | 225 | 482 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 503 | 2668 | Left Click Down
+2 | 225 | 503 | 62 | Left Click Release
+3 | 225 | 503 | 94 | Left Click Down
+4 | 225 | 503 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 524 | 2668 | Left Click Down
+2 | 225 | 524 | 62 | Left Click Release
+3 | 225 | 524 | 94 | Left Click Down
+4 | 225 | 524 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 547 | 2668 | Left Click Down
+2 | 225 | 547 | 62 | Left Click Release
+3 | 225 | 547 | 94 | Left Click Down
+4 | 225 | 547 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 572 | 2668 | Left Click Down
+2 | 225 | 572| 62 | Left Click Release
+3 | 225 | 572 | 94 | Left Click Down
+4 | 225 | 572 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 592 | 2668 | Left Click Down
+2 | 225 | 592 | 62 | Left Click Release
+3 | 225 | 592 | 94 | Left Click Down
+4 | 225 | 592 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 614 | 2668 | Left Click Down
+2 | 225 | 614 | 62 | Left Click Release
+3 | 225 | 614 | 94 | Left Click Down
+4 | 225 | 614 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 632 | 2668 | Left Click Down
+2 | 225 | 632 | 62 | Left Click Release
+3 | 225 | 632 | 94 | Left Click Down
+4 | 225 | 632 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 657 | 2668 | Left Click Down
+2 | 225 | 657 | 62 | Left Click Release
+3 | 225 | 657 | 94 | Left Click Down
+4 | 225 | 657 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 682 | 2668 | Left Click Down
+2 | 225 | 682 | 62 | Left Click Release
+3 | 225 | 682 | 94 | Left Click Down
+4 | 225 | 682 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 704 | 2668 | Left Click Down
+2 | 225 | 704 | 62 | Left Click Release
+3 | 225 | 704 | 94 | Left Click Down
+4 | 225 | 704 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 722 | 2668 | Left Click Down
+2 | 225 | 722 | 62 | Left Click Release
+3 | 225 | 722 | 94 | Left Click Down
+4 | 225 | 722 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 747 | 2668 | Left Click Down
+2 | 225 | 747 | 62 | Left Click Release
+3 | 225 | 747 | 94 | Left Click Down
+4 | 225 | 747 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 768 | 2668 | Left Click Down
+2 | 225 | 768 | 62 | Left Click Release
+3 | 225 | 768 | 94 | Left Click Down
+4 | 225 | 768 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+
+1 | 19 | 42 | 1638 | Left Click Down
+2 | 19 | 42 | 109 | Left Click Release
+3 | 224 | 193 | 1587 | Left Click Down
+4 | 224 | 193 | 94 | Left Click Release
+5 | 224 | 193 | 125 | Left Click Down
+6 | 224 | 193 | 47 | Left Click Release
+
+1 | 225 | 130 | 2668 | Left Click Down
+2 | 225 | 130 | 62 | Left Click Release
+3 | 225 | 130 | 94 | Left Click Down
+4 | 225 | 130 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 156 | 2668 | Left Click Down
+2 | 225 | 156 | 62 | Left Click Release
+3 | 225 | 156 | 94 | Left Click Down
+4 | 225 | 156 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 174 | 2668 | Left Click Down
+2 | 225 | 174 | 62 | Left Click Release
+3 | 225 | 174 | 94 | Left Click Down
+4 | 225 | 174 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 195 | 2668 | Left Click Down
+2 | 225 | 195 | 62 | Left Click Release
+3 | 225 | 195 | 94 | Left Click Down
+4 | 225 | 195 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 219 | 2668 | Left Click Down
+2 | 225 | 219 | 62 | Left Click Release
+3 | 225 | 219 | 94 | Left Click Down
+4 | 225 | 219 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 241 | 2668 | Left Click Down
+2 | 225 | 241 | 62 | Left Click Release
+3 | 225 | 241 | 94 | Left Click Down
+4 | 225 | 241 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 263 | 2668 | Left Click Down
+2 | 225 | 263 | 62 | Left Click Release
+3 | 225 | 263 | 94 | Left Click Down
+4 | 225 | 263 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 285 | 2668 | Left Click Down
+2 | 225 | 285 | 62 | Left Click Release
+3 | 225 | 285 | 94 | Left Click Down
+4 | 225 | 285 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 305 | 2668 | Left Click Down
+2 | 225 | 305 | 62 | Left Click Release
+3 | 225 | 305 | 94 | Left Click Down
+4 | 225 | 305 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+1 | 225 | 330 | 2668 | Left Click Down
+2 | 225 | 330 | 62 | Left Click Release
+3 | 225 | 330 | 94 | Left Click Down
+4 | 225 | 330 | 94 | Left Click Release
+
+1 | 435 | 48 | 2163 | Left Click Down
+2 | 435 | 48 | 82 | Left Click Release
+3 | 437 | 46 | 2231 | Keypress Ctrl+ | V
+4 | 549 | 56 | 1874 | Keypress ENTER
+
+1 | 1431 | 155 | 1240 | Left Click Down
+2 | 1433 | 155 | 104 | Mouse Movement
+3 | 1434 | 165 | 40 | Mouse Movement
+4 | 1437 | 175 | 10 | Mouse Movement
+5 | 1437 | 185 | 40 | Mouse Movement
+6 | 1438 | 195 | 16 | Mouse Movement
+7 | 1438 | 205 | 16 | Mouse Movement
+8 | 1439 | 215 | 48 | Mouse Movement
+9 | 1439 | 225 | 72 | Mouse Movement
+10 | 1439 | 235 | 32 | Mouse Movement
+11 | 1439 | 245 | 16 | Mouse Movement
+12 | 1439 | 255 | 10 | Mouse Movement
+13 | 1439 | 265 | 24 | Mouse Movement
+14 | 1439 | 275 | 10 | Mouse Movement
+15 | 1439 | 285 | 16 | Mouse Movement
+16 | 1439 | 295 | 10 | Mouse Movement
+17 | 1439 | 305 | 10 | Mouse Movement
+18 | 1439 | 315 | 16 | Mouse Movement
+19 | 1439 | 325 | 10 | Mouse Movement
+20 | 1439 | 335 | 10 | Mouse Movement
+21 | 1439 | 345 | 16 | Mouse Movement
+22 | 1439 | 355 | 10 | Mouse Movement
+23 | 1439 | 355 | 211 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+1 | 228 | 283 | 826 | Left Click Down
+2 | 228 | 283 | 149 | Left Click Release
+
+7 | 1417 | 3 | 700 | Left Click Down
+8 | 1417 | 3 | 100 | Left Click Release
+
+
+1 | 84 | 880 | 2824 | Left Click Down
+2 | 85 | 879 | 109 | Left Click Release
+3 | 16 | 36 | 1669 | Left Click Down
+4 | 16 | 36 | 109 | Left Click Release
+5 | 205 | 128 | 1390 | Left Click Down
+6 | 205 | 128 | 109 | Left Click Release
+7 | 205 | 128 | 94 | Left Click Down
+8 | 205 | 128 | 120 | Left Click Release
+
+
